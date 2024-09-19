@@ -1,29 +1,17 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package Calculadora;
 
 import java.util.Scanner;
 
-/**
- *
- * @author User
- */
+
 public class Calc_Java {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ola Mundo!!!");
 
-        //Integer numeric;
-        //int e Integer são as mesmas coisa
-        //char é um caractere e string é um conjunto de char
-        //doube numero com virgula varias ex 0,000000000000
-        //float numero com virgula 0,0
+     
         Scanner recebe = new Scanner(System.in);
 
         int numero;
